@@ -60,6 +60,9 @@ The News App is a mobile application designed to provide users with the latest n
 - The NewsAPI.org API serves as the primary data source for fetching news articles.
 - It provides access to a vast collection of news articles from various sources worldwide, ensuring a diverse and comprehensive coverage of topics.
 
+### 5. HTTP Service
+- HTTP technologies are used for making network requests to fetch news articles from the NewsAPI.org API and handling responses.
+
 ## Getting Started
 
 To run the News App locally on your development environment, follow these steps:
